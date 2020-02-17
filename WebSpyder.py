@@ -64,5 +64,5 @@ class WebSpyder():
 
 if __name__ == "__main__":
     myspider = WebSpyder()
-   
+   # myspider.spider("file:///C:/Users/aquesada/Proyectos/Pruebas/WebSpyder/Python/testpage/htmltest.html")
     myspider.spider("file:///home/aquesada/projects/WebSpyder/testpage/htmltest.html")
